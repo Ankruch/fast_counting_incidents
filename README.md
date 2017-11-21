@@ -1,5 +1,7 @@
 # fast_counting_incidents
-(py35) anna@anna-UX32VD:~$ python incidents_counter.py 'incidents.csv' 0.3
+(py35) anna@anna-UX32VD:~$ python incidents_counter.py__
+'incidents.csv' 0.3
+
 function [incidents_counter.py] finished in 36 s
 
 "У нас есть набор "инцидентов", N штук. Каждый инцидент имеет id с последовательными значениями от 0 до N-1, два категориальных признака с какими-то целыми значениями от 0 до M-1, и признак времени с каким-то (нецелым) значением от 0 до 1.
